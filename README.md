@@ -1,4 +1,4 @@
-#### Hi there, I'm Amparo! 👋
+# Hi there, I'm Amparo! 👋
 
 I'm a computer science student from Argentina, now based in South Florida, USA :)
 
