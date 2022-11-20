@@ -1,6 +1,6 @@
 # Hi there, I'm Amparo! 👋
 
-I'm a computer science student from Argentina 🇦🇷
+I'm a computer science student from Argentina :argentina:
 :palm_tree: Based in South Florida, USA 
 
 - 🔭 I’m currently working on improving my C++ programming skills
