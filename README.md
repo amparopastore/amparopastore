@@ -1,5 +1,6 @@
-<div id="header" align="center">
-  <h1> Hey there! </> <img src="https://media.giphy.com/media/jt8mEC6Kffbwbv2tNH/giphy.gif" width="80">
+<div id="header" align="center"> 
+  <img src="https://media.giphy.com/media/jt8mEC6Kffbwbv2tNH/giphy.gif" width="80">
+  <h1> Hey there! </>
 </div>
 
 ## :cherry_blossom: About Me
