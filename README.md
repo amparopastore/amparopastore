@@ -7,7 +7,7 @@
 My name is **Amparo**. I'm an undergrad student pursuing a BA in Interdisciplinary Mathematics and Computer Science <br>
 Based in South Florida, USA <img src="https://user-images.githubusercontent.com/96999371/202937066-9c92351c-d31e-4076-952f-7a60e083b9f7.png" width="20"> - Originally from Buenos Aires, Argentina <img src="https://user-images.githubusercontent.com/96999371/202937097-94f73653-3934-4267-9c91-1890d2c8041f.png" width="20">
 
-- :pencil2: Aspiring software engineer/developer with a passion for learning
+- :pencil2: Aspiring full-stack developer with a passion for learning
 - :seedling: Currently learning OOP and implementation of different data structures
 - :v: Ask me anything!
 - :heartpulse: Find me ... cheering for Argentina to win the Qatar 2022 World Cup, having a cup of black coffee, reading a good book, or _coding duh_ !!
