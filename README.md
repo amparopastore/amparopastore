@@ -9,15 +9,15 @@ Based in South Florida, USA <img src="https://user-images.githubusercontent.com/
 - :pencil2: Aspiring software engineer/developer with a passion for learning
 - :seedling: Currently learning OOP and implementation of different data structures
 - :v: Ask me anything!
-- :heartpulse: Cheering for Argentina to win the Qatar 2022 World Cup !!
+- :heartpulse: Find me ... cheering for Argentina to win the Qatar 2022 World Cup, having a cup of black coffee, reading a good book, or _coding duh_ !!
 
-### Tools
+### :wrench: Tools
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 
-### Currently listening to...
+###  :headphones: Currently listening to...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ampigp&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-### Reach out
+### :envelope: Reach out
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
