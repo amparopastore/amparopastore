@@ -10,7 +10,7 @@ Based in South Florida, USA <img src="https://user-images.githubusercontent.com/
 - :pencil2: Aspiring full-stack developer with a passion for learning
 - :seedling: Currently learning OOP and implementation of different data structures
 - :v: Ask me anything!
-- :heartpulse: Find me ... cheering for Argentina to win the Qatar 2022 World Cup, having a cup of black coffee, reading a good book, or _coding duh_ !!
+- :heartpulse: Find me ... cheering for Argentina to win the Qatar 2022 World Cup, having a cup of black coffee, reading a good book, or _coding_ :) !!
 
 ## :wrench: Tools
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
