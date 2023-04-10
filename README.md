@@ -4,6 +4,7 @@
 </div>
 
 ## :cherry_blossom: About Me
+  
 - Junior undergrad student pursuing a BA in Interdisciplinary Mathematics and Computer Science
 - Based in South Florida, USA <img src="https://user-images.githubusercontent.com/96999371/202937066-9c92351c-d31e-4076-952f-7a60e083b9f7.png" width="20"> 
 - Originally from Buenos Aires, Argentina <img src="https://user-images.githubusercontent.com/96999371/202937097-94f73653-3934-4267-9c91-1890d2c8041f.png" width="20">
