@@ -3,6 +3,7 @@
   <h1> Hi, I'm Amparo </>
 </div>
 
+
 ##About Me
   
 - Junior undergrad student pursuing a BA in Interdisciplinary Mathematics and Computer Science
