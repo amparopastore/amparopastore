@@ -6,10 +6,10 @@
 
 ## About Me
 
-*Florida Atlantic University*
+**Florida Atlantic University**
   
-- Senior undergrad student majoring in comp. sci.
-- Based in South Florida, USA <img src="https://user-images.githubusercontent.com/96999371/202937066-9c92351c-d31e-4076-952f-7a60e083b9f7.png" width="20"> 
+- Senior BA CS student at FAU
+- Based in South Florida, USA <img src="https://user-images.githubusercontent.com/96999371/202937066-9c92351c-d31e-4076-952f-7a60e083b9f7.png" width="20">  
 
 ## Tools
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
