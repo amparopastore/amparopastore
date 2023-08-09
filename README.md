@@ -23,8 +23,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </div>
 
-## Soundtrack <3
-<img src="https://media.giphy.com/media/U5VIRanL8QqSKBkVtX/giphy.gif" align="left" width="200">
-
+## Soundtrack
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ampigp&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
