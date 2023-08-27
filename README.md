@@ -8,7 +8,7 @@
 
 **Florida Atlantic University**
   
-- Senior BA CS student
+- Comp. Sci. student
 - Based in South Florida, USA <img src="https://user-images.githubusercontent.com/96999371/202937066-9c92351c-d31e-4076-952f-7a60e083b9f7.png" width="20">  
 
 ## Tools
