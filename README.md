@@ -1,5 +1,4 @@
 <div id="header"> 
-  <img src="https://media.giphy.com/media/QrGrbw1pc4oVXrucye/giphy.gif" align="right" width="200">
   <h1> Hi! I'm Amparo. </>
 </div>
 
