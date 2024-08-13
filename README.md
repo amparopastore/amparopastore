@@ -1,22 +1,26 @@
-<div id="header"> 
-  <h1> Hi 👋 I'm Amparo </>
-</div>
+# Hi there 👋, I'm Amparo Godoy Pastore
 
+## 🌟 About Me
 
-## About Me
+🎓 **MS in Computer Science** | Florida Atlantic University  
+🎓 **BA in Interdisciplinary Mathematics** | H. L. Wilkes Honors College, FAU  
+📍 Based in Florida, USA  
 
-**Florida Atlantic University Grad Student**
-  
-- MS Comp. Sci. student | FAU
-- BA Interdisciplinary Mathematics | H. L. Wilkes Honors College, FAU
-- Florida, USA <img src="https://user-images.githubusercontent.com/96999371/202937066-9c92351c-d31e-4076-952f-7a60e083b9f7.png" width="20">
+I'm inspired by the transformative potential of AI, particularly in the realms of Healthcare and Computer Vision.
 
-## Reach out
-<div id="badges">
-  <a href="https://www.linkedin.com/in/amparogpastore/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:agodoypastore@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</div>
+## 🛠️ Skills & Interests
+
+- **Programming Languages:** Python, MATLAB, C/C++, JavaScript, CSS, HTML, R
+- **Tools:** Flask, Bootstrap, PyTorch, Tensorflow, Keras, Scikit-learn, OpenCV, VS Code, Jupyter Notebook
+- **Areas of Expertise:** Medical Image Analysis, AI in Healthcare, Deep Learning, Machine Learning, Computer Vision, Image Processing
+- **Interests:** AI in Healthcare Technology, Deep Learning 
+
+## 🚀 What I'm Working On
+
+- Finalizing the book *Medical Image Analysis Recipes Using MATLAB*, co-authored with experts in the field.
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amparo-godoy-pastore/)](https://www.linkedin.com/in/amparogpastore/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com)](mailto:agodoypastore@gmail.com)
 
