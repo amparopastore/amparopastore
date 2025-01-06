@@ -1,10 +1,10 @@
-# Hi there 👋, I'm Amparo Godoy Pastore
+# Hi I'm Amparo
 
 ## 🌟 About Me
 
-🎓 **MS in Computer Science** | Florida Atlantic University  
-🎓 **BA in Interdisciplinary Mathematics** | H. L. Wilkes Honors College, FAU  
-📍 Based in Florida, USA  
+🎓 **MS Computer Science** | Florida Atlantic University  
+🎓 **BA Interdisciplinary Mathematics** | H. L. Wilkes Honors College, FAU  
+📍Florida, USA  
 
 I'm inspired by the transformative potential of AI, particularly in the realms of Healthcare and Computer Vision.
 
